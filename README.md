@@ -7,4 +7,5 @@ I have strong experience in interactive calculations and data analysis. It's alw
 Feel free to reach out or connect with me!
 
 [About](/about)
+
 [Articles](/articles)
